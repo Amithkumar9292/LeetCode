@@ -37,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Amithkumar9292/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Math
+|  |
+| ------- |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Amithkumar9292/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 <!---LeetCode Topics End-->
