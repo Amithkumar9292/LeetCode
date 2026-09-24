@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Amithkumar9292/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0905-sort-array-by-parity](https://github.com/Amithkumar9292/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Amithkumar9292/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Amithkumar9292/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Amithkumar9292/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Amithkumar9292/LeetCode/tree/master/0242-valid-anagram) |
+| [0905-sort-array-by-parity](https://github.com/Amithkumar9292/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Amithkumar9292/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Amithkumar9292/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
@@ -71,4 +73,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Amithkumar9292/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0905-sort-array-by-parity](https://github.com/Amithkumar9292/LeetCode/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
