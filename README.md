@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Amithkumar9292/LeetCode/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Amithkumar9292/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Amithkumar9292/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/Amithkumar9292/LeetCode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Amithkumar9292/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Amithkumar9292/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0344-reverse-string](https://github.com/Amithkumar9292/LeetCode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Amithkumar9292/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Amithkumar9292/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/Amithkumar9292/LeetCode/tree/master/0905-sort-array-by-parity) |
