@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Amithkumar9292/LeetCode/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Amithkumar9292/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amithkumar9292/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0905-sort-array-by-parity](https://github.com/Amithkumar9292/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -90,5 +91,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Amithkumar9292/LeetCode/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Amithkumar9292/LeetCode/tree/master/1672-richest-customer-wealth) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Amithkumar9292/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
