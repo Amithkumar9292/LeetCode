@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Amithkumar9292/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Amithkumar9292/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Amithkumar9292/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1672-richest-customer-wealth](https://github.com/Amithkumar9292/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Amithkumar9292/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3731-find-missing-elements](https://github.com/Amithkumar9292/LeetCode/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Amithkumar9292/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Amithkumar9292/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/Amithkumar9292/LeetCode/tree/master/0905-sort-array-by-parity) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Amithkumar9292/LeetCode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
