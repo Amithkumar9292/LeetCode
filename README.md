@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Amithkumar9292/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Amithkumar9292/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Amithkumar9292/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Amithkumar9292/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Amithkumar9292/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/Amithkumar9292/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Amithkumar9292/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Amithkumar9292/LeetCode/tree/master/1137-n-th-tribonacci-number) |
